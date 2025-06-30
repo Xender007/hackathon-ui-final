@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+TODO :
+(link should be accepted as part of upload option)
+create one page --> Upload file option ---> dropdown to select group/folder
+---> down show mat table show all uploaded files (file name, description, created at, updated at, created by )
+---> add edit + delete icon + download link
